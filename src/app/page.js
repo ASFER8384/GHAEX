@@ -11,10 +11,10 @@ export default function Page() {
   return (
     <div>
       <Homepage />
-      <Services />
+      {/* <Services />
       <Car />
       <Details />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }
