@@ -21,7 +21,7 @@ export default function Footer() {
             }}
           >
             <img
-              src="/assets/Logo.png" // make sure your logo is inside public folder
+              src="/assets/Logo.png"
               alt="Logo"
               style={{
                 width: "100%",
